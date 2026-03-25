@@ -1,0 +1,6 @@
+[project]
+name = "trading-project"
+version = "0.1.0"
+description = "AI trading research project on Databricks"
+requires-python = ">=3.10"
+dependencies = []
