@@ -1,2 +1,1 @@
-
-This folder contains thin Databricks notebooks used only to orchestrate workflows.
+This package contains the core project logic.
